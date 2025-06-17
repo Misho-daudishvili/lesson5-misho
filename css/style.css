@@ -1,0 +1,169 @@
+.container {
+    width: 1336px;
+    margin: 0 auto;
+}
+
+.begin-box {
+    margin-top: 80px;
+    margin-bottom: 48px;
+}
+
+.team {
+    text-align: center;
+    font-size: 16px;
+    color: #282828;
+    font-family: 'Inter';
+    font-weight: 600;
+}
+
+.clonify-team {
+    text-align: center;
+    font-size: 54px;
+    color: #282828;
+    font-family: 'Inter';
+    font-weight: 600;
+}
+
+.text-box {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.passages {
+    text-align: center;
+    margin-top: 16px;
+    color: #5F6980;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+
+.middle-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.middle-boxes {
+    width: 310px;
+    margin-bottom: 48px;
+}
+
+.image-box {
+    width: 310px;
+    height: 230px;
+}
+
+.descr-box {
+    width: 310px;
+    margin-top: 16px;
+}
+
+.footer-box {
+    width: 100%;
+    background-color: #53535354;
+    padding: 108px 148px 129px 164px;
+}
+
+.footer-div {
+    display: flex;
+}
+
+.box1 {
+    width: 318.05px;
+    margin-right: 150px;
+}
+
+.text {
+    margin-top: 32px;
+    margin-bottom: 28px;
+    font-size: 14px;
+    color: #535353;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+.box2 {
+    width: 136px;
+    margin-right: 250px;
+}
+
+.title {
+    color: black;
+    font-size: 20px;
+     font-family: 'Inter';
+    font-weight: 600;
+    margin-bottom: 71px;
+}
+.navigation {
+    font-size: 14px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+a {
+    color:#535353
+}
+.nav-li {
+    margin-bottom: 30px;
+}
+.logo {
+    width: 24px;
+    height: 24px;
+}
+.name {
+    font-size: 18px;
+    color: #282828;
+     font-family: 'Inter';
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.position {
+    color: #3E3E59;
+    font-size: 14px;
+    font-family: 'Inter';
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.description {
+    color: #5F6980;
+    font-size: 14px;
+      font-family: 'Inter';
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.icons {
+    width: 36px;
+    height: 36px;
+}
+.sub-title {
+     color: black;
+    font-size: 20px;
+     font-family: 'Inter';
+    font-weight: 600;
+    margin-bottom: 55px;
+}
+.service-title {
+     font-size: 14px;
+    font-family: 'Inter';
+    font-weight: 400;
+    color: #535353;
+    margin-bottom: 35px;
+}
+.box3{
+    margin-right: 250px;
+}
+.lang {
+      color: black;
+    font-size: 20px;
+     font-family: 'Inter';
+    font-weight: 600;
+    margin-bottom: 59px;
+}
+.language-box {
+    width: 80px;
+    background-color: #054A68;
+    padding: 14px 6px 14px 6px;
+}
+.lang-english {
+    text-align: center;
+    color: #FFFFFF;
+}
